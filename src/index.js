@@ -1,6 +1,6 @@
 import React from "react";
 import { render } from "react-dom";
-import Form from "./form";
+import Form from "./components/form";
 import "semantic-ui-css/semantic.min.css";
 import { Container, Menu, Input, Image } from "semantic-ui-react";
 
